@@ -6,6 +6,7 @@ img{
     display: inline;
 }
 
+<<<<<<< HEAD
 .contents{
     width: 100vw;
     height: 100vh;
@@ -27,6 +28,12 @@ img{
 .contents-img img{
     width: 100vw;
     height: 100vh;
+=======
+
+
+.contents-img img{
+    max-width: 100%;
+>>>>>>> origin/master
     object-fit: cover;
     
 }
@@ -137,9 +144,12 @@ img{
 
 
 
+<<<<<<< HEAD
 .feature{
     margin-bottom: 150px;
 }
+=======
+>>>>>>> origin/master
 
 .feature-title{
     margin-top: 50px;
@@ -147,11 +157,16 @@ img{
 }
 
 .feature-title img{
+<<<<<<< HEAD
     width: 86.1%;
+=======
+    width: 1240px;
+>>>>>>> origin/master
 
 }
 
 .feature-points{
+<<<<<<< HEAD
     display: flex;
     justify-content: flex-start;
     margin-bottom: 15px;
@@ -194,4 +209,9 @@ img{
 .school-life h1{
     text-align: center;
 }
+=======
+    margin-left: 100px;
+}
+
+>>>>>>> origin/master
 
