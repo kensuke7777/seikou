@@ -1,0 +1,197 @@
+img{
+    display: block;
+}
+
+.head-top li{
+    display: inline;
+}
+
+.contents{
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.contents-menu{
+    display: flex;
+    position: absolute;
+    bottom:0%;
+    
+}
+
+.contents-header ul{
+    display: inline-block;
+    
+}
+
+.contents-img img{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    
+}
+
+.contents-img p {
+    position: absolute;
+    top:50%;
+    left:60%;
+   
+}
+
+.contents-img h1 {
+    position: absolute;
+    top:35%;
+    left:60%;
+   
+}
+
+
+.topics{
+    margin-top: 80px;
+    display: flex;
+    justify-content: flex-start;
+
+    margin-left: 100px;
+
+}
+
+.topics-title{
+    display: block;
+    width: 230px;
+    margin-right: 45px;
+}
+
+.topics-title h1{
+    color: #636FA1;
+    font-size: 40px;
+}
+
+.topics-info p{
+    /* border: solid;
+    border-radius: 100vh; */
+    display: block;
+    margin-left: auto;
+    text-align: right;
+    
+}
+
+.topics-img{
+    padding-bottom: 2%;
+    padding-right: 25px;
+}
+
+.topics-img img{
+    width: 280px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+.topics-img p{
+    font-size: 12px;
+}
+
+
+
+
+.info{
+    margin-top: 25px;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 100px;
+}
+
+.info li{
+    list-style: none;
+    font-size: 12px;
+}
+
+.info-title{
+    width: 230px;
+    
+}
+
+.info-title h1{
+    color: #E46E99;
+    font-size: 40px;
+}
+
+.info-info p{
+    /* border: solid;
+    border-radius: 100vh; */
+    display: block;
+    margin-left: auto;
+    text-align: right;
+    
+}
+
+.info-news span{
+    color: #E46E99;
+}
+
+.news-border{
+    border-bottom: 1px solid #535353; 
+}
+
+
+
+
+
+.feature{
+    margin-bottom: 150px;
+}
+
+.feature-title{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.feature-title img{
+    width: 86.1%;
+
+}
+
+.feature-points{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 15px;
+}
+
+.feature-points img{
+    max-width: 660px;
+}
+
+.feature-points-text{
+    margin-left: 100px;
+    margin-right: 75px;
+    width: 500px;
+    overflow-wrap: normal;
+}
+
+.feature-points-text p{
+    font-size: 12px;
+    line-height: 2em
+}
+
+.feature-points-text2{
+    width: 500px;
+    overflow-wrap: normal;
+}
+
+.feature-points-text2 p{
+    font-size: 12px;
+    line-height: 2em
+}
+
+.feature-points-img2{
+    margin-left: 50px;
+    margin-right: 75px;
+}
+
+
+
+
+.school-life h1{
+    text-align: center;
+}
+
